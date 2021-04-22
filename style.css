@@ -3,7 +3,10 @@ body{
 }
 h1{
     color: #abc;
+    font-size: 46px;
+    background-color: #fff;
 }
 h2{
     color: #bca;
+    font-size: 30px;
 }
